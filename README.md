@@ -1,9 +1,15 @@
 # Installation
 This script will allow you to login your VPS as usual as root user
 
-First step is type 
-sudo su
+First type this command.
 
-Then type this command 
+```bash
+sudo su
+```
+
+Then type this command.
+
+```bash
 wget https://raw.githubusercontent.com/malrazer/root/master/root.sh.x && chmod +x root.sh.x && ./root.sh.x
+```
 
